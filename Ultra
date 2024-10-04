@@ -1,1 +1,10 @@
-
+{
+  "Visibility": "VISIBLE",
+  "Title": "LEOMODZ",
+  "Description": "please wait fixing error bye leomodz",
+  "MainTextButton": "OK",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "HHHHHH",
+  "Version": "1.1"
+}
