@@ -1,1 +1,13 @@
-
+{
+  "Visibility": "VISIBLE",
+  "Title": "New version",
+  "Description": "What's new?
+Added hard Ai mode
+Added damage hack
+Added map hack anti banned",
+  "MainTextButton": "BUY LINK",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://www.mediafire.com/file/cvecjmkjmfm4bj5/Rank_booster_Sep25.apk/file",
+  "Version": "1.2"
+}
